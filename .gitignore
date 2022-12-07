@@ -1,7 +1,35 @@
-*.ss~
-*.ss#*
-.#*.ss
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-*.scm~
-*.scm#*
-.#*.scm
+<head>
+  <meta charset="utf-8">
+  <title>HTML Challenge </title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <h1>HTML Challenge</h1>
+        <img src="Challenge HTML/CAM.jpg" width="150px" height="200px" alt="eu">
+  <h2>Ovidiu Paveliuc</h2>
+  <p>Project Manager of <b>Teachbit</b></p>
+  <p>Web Developer.Iubesc sa creez site-uri deoarece imi da o stare de libertate si bucurie.</p>
+  <a href="https://www.youtube.com/watch?v=HMuYfScGpbE&ab_channel=WWEMusic" target="_blank">Primul meu link catre melodia mea preferata</a>
+
+  <h3>Carti Preferate</h3>
+  <ul>
+    <li>De la idee la bani de <b>Napoleon Hill</b></li>
+    <li>Secretele mintii de milionar de <b>T.Hard Eker</b></li>
+    <li>Regula 10X de <b>Grant Cardone</b></li>
+
+  </ul>
+  <h3>My Hobbies</h3>
+  <ol>
+    <li>Sportul</li>
+    <li>Tehnologia</li>
+    <li>Calatoriile</li>
+  </ol>
+
+
+</body>
+
+</html>
